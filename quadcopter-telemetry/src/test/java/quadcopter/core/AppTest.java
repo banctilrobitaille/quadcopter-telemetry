@@ -1,4 +1,4 @@
-package com.personnal.quadcopter_telemetry;
+package quadcopter.core;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
